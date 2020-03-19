@@ -1,0 +1,27 @@
+{
+  "chilly": {
+    "definition": "uncomfortably cool or cold",
+    "synonyms": [
+      "cold",
+      "cool",
+      "crisp",
+      "fresh",
+      "brisk",
+      "bleak",
+      "wintry",
+      "snowy"
+    ]
+  },
+  "word1": {
+    "definition": "def1",
+    "synonyms": [
+      "synonym1",
+      "synonym2",
+      "synonym4"
+    ]
+  },
+  "word2": {
+    "definition": "word2Definition",
+    "synonyms": []
+  }
+}
